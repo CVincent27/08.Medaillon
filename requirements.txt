@@ -1,0 +1,9 @@
+apache-airflow==2.7.1
+pandas
+rdflib
+neo4j-driver
+requests
+sqlalchemy
+pyarrow
+great_expectations
+neo4j
