@@ -1,4 +1,4 @@
-apache-airflow==2.7.1
+apache-airflow
 pandas
 rdflib
 neo4j-driver
